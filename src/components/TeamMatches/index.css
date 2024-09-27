@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.TeamMatchesBgContainer {
+  background-image: linear-gradient(to bottom, #d91c1f, #1e293b);
+  height: auto;
+  padding: 20px;
+}
+.matchCardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.latestMatches {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 20px;
+  text-align: left;
+}
